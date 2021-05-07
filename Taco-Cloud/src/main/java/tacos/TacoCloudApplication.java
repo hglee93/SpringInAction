@@ -11,7 +11,7 @@ public class TacoCloudApplication {
     * -> 세 개의 어노테이션이 결합
     * 1) SpringBootConfiguration
     * 2) EnableAutoConfiguration : 구성 파일을 자동으로 인식
-    * 3) ComponentScan : @Component, @Controller, @Service 등의 클래스를 찾아서 스프링 어플리케이션 컨텍스트에 등록해줌
+    * 3) ComponentScan : @Component, @Controller, @Service 등의 클래스를 찾아서 스프링 어플리케이션 컨텍스트에 등록해준다.ㄴㄴㄴ
     * */
 
     public static void main(String[] args) {
